@@ -1,7 +1,3 @@
-#HighDimensionalSpace
-#PCA Tryout
-#https://www.kaggle.com/pmarcelino/data-analysis-and-feature-extraction-with-python
-
 from matplotlib import pyplot as plt
 from matplotlib.colors import ListedColormap
 import pandas as pd
